@@ -1,4 +1,4 @@
-cp nmap.txt /home/godz/desktop {copy file}
+cp nmap.txt /home/godz/desktop {copy file} 
 ctrl+L {cleear without delete}
 mv nmap.txt + pass {move}
 mv nmap.txt and then the other name {rename}
